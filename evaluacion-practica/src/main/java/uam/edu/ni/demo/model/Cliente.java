@@ -7,6 +7,6 @@ public class Cliente {
     private String nombre_completo;
     private LocalDateTime fecha_servicio;
     private LocalTime hora_servicio;
-    private String Servicio;
+    private String servicio;
     private boolean estado;
 }
